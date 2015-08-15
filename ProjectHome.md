@@ -1,0 +1,1 @@
+This projekt contains functionality (Portlet) for [Piwik](http://piwik.org/)  tracking codes
